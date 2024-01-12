@@ -1,0 +1,8 @@
+selector
+psudeo
+inline block
+specificity
+opacity
+visibility
+margin 
+padding

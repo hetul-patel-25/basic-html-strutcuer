@@ -1,0 +1,12 @@
+.simple {
+    height: 200;
+    width: 200;
+    color: red;
+    background-color: yellow;
+}
+div p{
+    background-color: green;
+}
+#child{
+    background-color: purple;
+}
